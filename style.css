@@ -101,8 +101,10 @@ footer {
     font-size: 0.9em;
 }
 
+/* Table of contents */
 .toc { font-size: 0.95em; color: #555; }
 .toc a { margin-right: 4px; }
 
+/* Teaching list */
 .teaching-list { margin-left: 22px; }
 .teaching-list li { margin-bottom: 6px; }
