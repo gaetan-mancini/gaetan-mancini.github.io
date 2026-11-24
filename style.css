@@ -103,3 +103,6 @@ footer {
 
 .toc { font-size: 0.95em; color: #555; }
 .toc a { margin-right: 4px; }
+
+.teaching-list { margin-left: 22px; }
+.teaching-list li { margin-bottom: 6px; }
