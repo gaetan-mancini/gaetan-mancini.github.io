@@ -100,3 +100,6 @@ footer {
     font-style: italic;
     font-size: 0.9em;
 }
+
+.toc { font-size: 0.95em; color: #555; }
+.toc a { margin-right: 4px; }
